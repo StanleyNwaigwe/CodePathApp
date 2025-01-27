@@ -32,6 +32,11 @@ TikTok
 - Short-form video content: Easy to scroll through and discover new content quickly.
 - Personalized feed (For You Page): Uses powerful algorithms to show content based on your interests and past interactions.
 - Trendy challenges & effects: Offers a variety of fun, viral challenges and creative effects for users to interact with.
+
+App Idea: SleepSing – Alarm Manager with Spotify Integration
+
+Description:
+SleepSync is an app designed to help users wake up to their favorite music by integrating alarm management with Spotify playlists. It allows users to set custom alarms that are linked to specific Spotify playlists. When the alarm goes off, instead of a typical ringtone, a user’s chosen playlist plays, making waking up a more enjoyable experience. The app also offers features for managing multiple alarms, customizing alarm times, and organizing playlists for different occasions, such as morning, workout, or relaxation sessions.
 ## Notes
 
 Learning the new environment
